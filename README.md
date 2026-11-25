@@ -1,3 +1,3 @@
-# Sabores del Valle — Administración de productos (HU-03)
+# Sabores del Valle
 
 MVP de administración de productos y stock para Sabores del Valle.
